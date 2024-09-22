@@ -7,14 +7,13 @@ de otimização de distribuição e de custo de rotas de uma empresa embarcadora
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados da equipe envolvida.
 
 # Índice
-* [Nossa empresa](#Missão-visão-e-valores)
-* [Cronograma](#Cronograma-das-sprints)
+* [Nossa empresa](#missão-visão-e-valores)
+* [Cronograma](#cronograma-das-sprints)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
-* [Estrutura do Jira Software](#estrutura-do-jira-software)
-* [Backlog do produto](#Backlog-do-produto-e-sprints)
-* [Burndown](#Burndown)
+* [Backlog do produto](#backlog-do-produto-e-sprints)
+* [Burndown](#burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -44,10 +43,10 @@ que transforma o transporte, tornando-o não apenas eficiente, mas também um pi
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 03/09/2024 | Concluido| | 
-|0| 24/09/2024 | A fazer|  | 
+|0| 24/09/2024 | Concluído|  | 
 |1| 15/10/2024| A fazer |  | 
 |2| 05/11/2024 | A fazer|  | 
-|3| 12/12/2024 | A fazer |  | 
+|3| 26/11/2024 | A fazer |  | 
 |Feira de Soluções| 12/12/2023 | A fazer | | 
 
 
@@ -62,74 +61,75 @@ Sprint | Previsão | Status| Histórico|
 ![Equipe]
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar a identificar . . . , utilizando:
-* 
-* 
-* 
-* 
-* 
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
+
 # Vídeos e apresentações das sprints
   
-## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
-
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
+ 
  ### Tecnológias Específicas/Apoio
- > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas: 
-- [Jira Software](https://log206g3.atlassian.net/jira/software/projects/scrum/boards/1)
-- [Github](https://github.com/logisticanoturnofatec2023/biscoito-de-dados)
+ > Utilizamos diferentes tecnologias de gestão aplicando o metodo ágil, são elas:
+
+- Jira Software
+- Github
 - Power BI
 - Excel
 - Word
-  
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Power BI
-- [![MVP]
-- MVP
-- [![MVP]
-- Scrum para iniciantes
-- [![Scrum para iniciantes]
-
-# Estrutura do jira software
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Estrutução[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-# Backlog do produto e sprints
-  
-<div align="center">
-    
-![product backlog](https://github.com/Camillevcrocha/bis/blob/main/Backlogdoproduto.png)
-![sprint backlog](https://github.com/Camillevcrocha/bis/blob/main/Sprint01.png)
-</div>
-
-# Regras de Negócio
-
-### Requisitos funcionais
-
-### Requisitos não funcionais
+- Python
+- SQL
+- Slack
+- Office
+- Teams
+- Whatsapp
 
 # Burndown
-![sprint backlog](h
 
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
-## Apresentação do backlog
--
+# Backlog do produto e sprints
 
-## Sprint 1. Desenvolvimento do Projeto
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+## Sprint 0
+- [X] Estruturação do Git Hub – Definir missão, visão e valores, perfil da empresa, resumo do backlog;
+- [X] Estruturação do Jira – Definir todas as atividades e distribui-las para os desenvolvedores;
+- [X] Documentação da sprint 0;
+- [X] Aprendizagem de SQL;
+- [X] Aprendizagem de Python;
+- [X] Tratamento de dados no Power BI;
+- [X] Estudo de como minimizar os custos do transporte;
+- [X] Estudo de como otimizar as rotas.
+
+## Sprint 1
+- [ ] Esboçar e definir a estrutura do banco de dados conforme requisitos – relacionamento de dados, montagem de um layout inicial, gráficos para uma primeira validação;
+- [ ] Implementar as tabelas e relacionamentos, no banco de dados SQL;
+- [ ] Estabelecer a conexão entre a ferramenta de BI e SQL;
+- [ ] Documentação da sprint 1;
+- [ ] Rotas de veículos de acordo com clientes;
+- [ ]	Entender as rotas que os veículos percorrem;
+- [ ]	Implementação dos feedbacks do cliente.
+
+## Sprint 2
+- [ ]	Otimização das rotas para melhorar distribuição;
+- [ ] Minimização dos custos de rotas;
+- [ ] Aplicação de Python na otimização das rotas;
+- [ ] Documentação da sprint 2;
+- [ ] Estudar sobre as rodovias que os veículos costumam percorrer para entender seus pros e contras;
+- [ ] Custos de fabricas x clientes.
+
+ ## Sprint 2
+- [ ] Slides da apresentação da feira de soluções;
+- [ ] Trazer informações complexas e fundamentadas sobre a redução de custos e otimização de rotas;
+- [ ] 3.	Documentação da sprint 3.
 
 # Competências desenvolvidas
 
@@ -139,9 +139,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| 5W2H |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| SWOT|  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Jira software |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira software | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
+| Python |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| SQL |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Power BI |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | GitHub|  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Gestão de projetos |  ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
